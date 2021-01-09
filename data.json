@@ -1,0 +1,84 @@
+{
+"users":[
+{
+    "id":1,
+    "user":"juanlpz",
+    "name":"juan",
+    "lastname":"lopez",
+    "number":322354685,
+    "address": "los ageles california"
+},
+{
+    "id":2,
+    "user":"lucasdlt",
+    "name":"Lucas",
+    "lastname":"Dalto",
+    "number":34346685,
+    "address": "Argentina"
+},
+{
+    "id":3,
+    "user":"Jesusrdj",
+    "name":"jesus",
+    "lastname":"rodas",
+    "number":234233485,
+    "address": "Mexico"
+},
+{
+    "id":4,
+    "user":"Ricardolpz",
+    "name":"Ricardo",
+    "lastname":"Lopez Ruiz",
+    "number":96534685,
+    "address": "chiapas"
+},
+{
+    "id":5,
+    "user":"alondrahi34",
+    "name":"alondra",
+    "lastname":"trinidad",
+    "number":987654323,
+    "address": "U.S.A"
+},
+{
+    "id":6,
+    "user":"william78",
+    "name":"william",
+    "lastname":"Vazques",
+    "number":96987585,
+    "address": "China"
+},
+{
+    "id":7,
+    "user":"Lupita893",
+    "name":"Guadalupe",
+    "lastname":"HDZ",
+    "number":45654685,
+    "address": "el soconuco"
+},
+{
+    "id":8,
+    "user":"Arlette485",
+    "name":"Arlette",
+    "lastname":"OEpjt",
+    "number":879484895,
+    "address": "Revolucion"
+},
+{
+    "id":9,
+    "user":"LorenaA123",
+    "name":"Lorena",
+    "lastname":"Arias",
+    "number":897498754,
+    "address": "Chihuahua"
+},
+{
+    "id":10,
+    "user":"fededjpg",
+    "name":"Federico",
+    "lastname":"Gomez",
+    "number":98738785,
+    "address": "San francisco"
+}
+]
+}
